@@ -1,0 +1,11 @@
+torch
+torchvision
+matplotlib
+numpy
+scikit-learn
+gensim
+lightfm
+pandas
+seaborn
+scikit-surprise
+git+git://github.com/williamFalcon/pytorch-lightning.git#egg=pytorch-lightning

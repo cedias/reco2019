@@ -12,7 +12,9 @@ Repository of Notebooks for the recsys practicals
 - (3) [CONTEXTUAL INFORMATION & TIME](https://drive.google.com/open?id=0B5HWSvDb1DneV2d5VS1kMEp2U2Y4d014bXlpeHNETFBZVXo0)
 - (4) [RECENT ADVANCES & DEEP LEARNING ARCHITECTURES](https://drive.google.com/open?id=0B5HWSvDb1DneTVpwWUZvbVhTRGhJVmlPS1lTMnJUYUJjODM0)
 
-[.](https://drive.google.com/open?id=1-po1jdFjmUUypy_CjxEjU8qq5vHJL3H-)
+## Corrected `.ipynb`'s
+
+[Google drive with corrected .ipynb](https://drive.google.com/open?id=1-po1jdFjmUUypy_CjxEjU8qq5vHJL3H-)
 
 ## Instructions to get started:
 __Every notebook is self contained, datasets are small enough and already unzipped.__

@@ -1,6 +1,10 @@
 # reco2019
 Repository of Notebooks for the recsys practicals
 
+## Hosted online version:
+
+[If you encounter any package problems, you can use online versions on Colab or Binder](https://github.com/cedias/rs2019-online)
+
 ## SLIDES OF COURSES:
 
 - (1) [INTRODUCTION, DEFINITION, APPROACHES & ISSUES](https://drive.google.com/open?id=0B5HWSvDb1DnebVJ0cWM1cU1renlGQUpDbVFvdzJFc0U0SHJF)
